@@ -18,7 +18,7 @@ Using the previous example, They-ify would produce:
 
 `Teach a person to fish, and you feed them for their entire life.` :)
 
-_Special thanks to [@andreadean whose](https://github.com/andreadean) [chrome extension](https://chrome.google.com/webstore/detail/pool-to-poker-and-poker-t/lndkcaldfpakdjdjgdpchoohjnbaaohk) inspired this one!_
+_Special thanks to [@andreadean](https://github.com/andreadean) whose [chrome extension](https://chrome.google.com/webstore/detail/pool-to-poker-and-poker-t/lndkcaldfpakdjdjgdpchoohjnbaaohk) inspired this one!_
 
 ## Further Reading
 https://english.stackexchange.com/questions/192/is-it-correct-to-use-their-instead-of-his-or-her
