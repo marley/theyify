@@ -1,0 +1,25 @@
+{
+  "manifest_version": 1,
+
+  "name": "They-ify",
+    "short_name": "theyify",
+  "description": "Disrupt the gender binary--'he or she' should just be 'they'",
+  "author": "Marley",
+  "version": "0.0.1",
+
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  },
+
+  "content_scripts":
+  [
+    {
+      "matches": ["*://*/*"],
+      "all_frames": true,
+      "js": ["content_script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
