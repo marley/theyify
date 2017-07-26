@@ -40,6 +40,14 @@ function replaceText(v)
     v = v.replace(/\bHer or his\b/g, "Their");
     v = v.replace(/\bher or his\b/g, "their");
 
+    // 'he/she', 'him/her', 'his/her'
+    v = v.replace(/\bHe\/She\b/g, "They");
+    v = v.replace(/\bhe\/she\b/g, "they");
+    v = v.replace(/\bHim\/Her\b/g, "Them");
+    v = v.replace(/\bhim\/her\b/g, "them");
+    v = v.replace(/\bHis\/Her\b/g, "Their");
+    v = v.replace(/\bhis\/her\b/g, "their");
+
 
     return v;
 }
