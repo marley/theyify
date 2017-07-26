@@ -17,3 +17,6 @@ They-ify is a Chrome extension that addresses that addresses this dual issue by 
 Using the previous example, They-ify would produce:
 
 `Teach a person to fish, and you feed them for their entire life.` :)
+
+# Further Reading
+https://english.stackexchange.com/questions/192/is-it-correct-to-use-their-instead-of-his-or-her
